@@ -37,7 +37,7 @@ body {
   background-color: ${theme.pink.colors.header};
 }
 .active{
-  border: 3px solid ${({ theme }) => theme.colors.border};
+  border: 4px solid ${({ theme }) => theme.colors.border};
     }
 `
 
